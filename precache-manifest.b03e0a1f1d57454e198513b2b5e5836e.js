@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c58b804cd048785bc7b9e926cf270ff",
+    "revision": "6799055fc6168f4bb81c45674e1a9fab",
     "url": "https://.github.io/csb-hf52s/index.html"
   },
   {
-    "revision": "80f299bed1689c84dd02",
+    "revision": "13a1fcc48918048aa61a",
     "url": "https://.github.io/csb-hf52s/static/css/main.a1ca3e5c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://.github.io/csb-hf52s/static/js/2.026437c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "80f299bed1689c84dd02",
-    "url": "https://.github.io/csb-hf52s/static/js/main.f7b8281e.chunk.js"
+    "revision": "13a1fcc48918048aa61a",
+    "url": "https://.github.io/csb-hf52s/static/js/main.7ba0ca82.chunk.js"
   },
   {
     "revision": "204e1da067777711d4cd",
