@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KACE,wBAAyB,CACzB,aACF","file":"main.a1ca3e5c.chunk.css","sourcesContent":["body {\r\n  background-color: #1E1E1E;\r\n  color: hsl(210, 50%, 96%);\r\n}"]}
